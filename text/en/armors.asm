@@ -18,7 +18,7 @@
 origin $000A02B1  // ----> Endereço de onde será gravado os textos
 
 armor_name_01:
-	text("Leather Armor") 
+	text("TEST") 
 armor_name_02:
 	text("Bronze Armor")
 armor_name_03:
